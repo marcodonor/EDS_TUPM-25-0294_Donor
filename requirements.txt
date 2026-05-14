@@ -1,0 +1,13 @@
+# Data Manipulation and Ingestion
+pandas
+
+# Mandatory Numerical Transformation and Statistics
+numpy
+
+# Static and Animated Visualizations
+matplotlib
+plotly
+nbformat  # Required for Plotly's static image export
+
+# Statistical Analysis Extensions (Optional but helpful for Skewness)
+scipy
